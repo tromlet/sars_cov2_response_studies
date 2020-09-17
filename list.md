@@ -17,10 +17,10 @@ Feel free to use these in any online debates, try to remain civil (I KNOW), and 
 | Number | Title | Date Published | Journal | Peer-Reviewed? | Link |
 |--------|-------|----------------|---------|----------------|------|
 | 8 | "What is the evidence to support the 2-metre social distancing rule to reduce COVID-19 transmission?" | 22 June 2020 | Centre for Evidence-Based Medicine | NO | [Link](https://www.cebm.net/covid-19/what-is-the-evidence-to-support-the-2-metre-social-distancing-rule-to-reduce-covid-19-transmission/) |
-| 9 | "What is the evidence to support the 2-metre social distancing rule to reduce COVID-19 transmission?" | 1 June 2020 | The Lancet | Yes | [Link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext) |
+| 9 | "Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis" | 1 June 2020 | The Lancet | Yes | [Link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext) |
 
 ## Study Notes/Summaries
-1. 
+1. This study compares the efficacy of a variety of face coverings (surgical masks, cloth masks, even a bandana) at blocking moisture/vapor particulates emitted by humans merely during speaking using readily-available (as opposed to extra sensitive, laboratory-grade) equipment.
 2. 
 3.
 4.
